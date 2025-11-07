@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ozanothandokote.github.io/mywebsite/sitemap.xml
